@@ -6,7 +6,7 @@ package topapp.id.dpac;
 
 public class Koneksi {
     public String getServer(){
-        String isi = "http://192.168.1.5/"; //over wifi Rumah
+        String isi = "http://192.168.1.5/"; //over wifi Rumah 1
         //String isi = "http://10.0.2.2"; //over emulator
         //String isi = "https://topapp.id/";
 
